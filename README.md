@@ -34,3 +34,12 @@ This project is an **Arduino-based** system designed to monitor environmental co
 - Sends temperature and humidity data to ThingSpeak using the ESP8266 Wi-Fi module.
 
 - Enables remote monitoring and data logging.
+
+***Working:***
+![alt text](screenshots/image-2.png)
+
+**Note:** This is just a visual representation. Actual connections may vary.
+
+![alt text](screenshots/image-1.png)
+
+For demo click on the given link: https://youtu.be/rH8D63Nztbs
